@@ -22,9 +22,9 @@ a:hover {
 
 .about-border {
     display: block;
-    width: 80px;
-    height: 3px;
-    background: #f1cd8f;
+    width: 500px;
+    height: 1px;
+    background: #d5d5d5;
     margin: 20px auto;
 }
 
