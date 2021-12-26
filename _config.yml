@@ -1,2 +1,6 @@
 name: Daniel Muliaditan
 markdown: kramdown
+theme: jekyll-theme-minimal
+description: PhD-candidate at National University of Singapore (NUS) and Genome Institute of Singapore (GIS)
+logo: https://media-exp1.licdn.com/dms/image/C4D03AQEtXJfCa3lPEg/profile-displayphoto-shrink_800_800/0/1570023656793?e=1646265600&v=beta&t=BP19NBpE4RavFsZA-aXw02bW_SA7a2e9mqPpJHpPVN0
+show_downloads: false
